@@ -1,0 +1,103 @@
+
+
+.header
+{
+	background:url(images/Copy_header1.png) repeat-x 100px;
+	height:100px;
+	margin-top:-10px;
+	margin-left:-10px;
+	width:101.5%;
+}
+
+.header_text
+{
+	text-align:center;
+	padding-top:30px;
+	font-size:30px;
+	font-weight:bold;
+}
+
+.footer
+{
+	background:url(images/Copy_header1.png) repeat-x 100px bottom;
+	height:110px;
+	margin-top:-10px;
+	margin-left:-10px;
+	width:101.5%;
+}
+
+.footer_text
+{
+	text-align:center;
+	padding-top:60px;
+	font-size:124x;
+	font-weight:bold;
+}
+
+
+.middle
+{
+	background:url(images/middle.png) repeat ;
+	margin-left:-10px;
+	margin-right:-8px;
+}
+
+.login
+{
+	background:url(images/login.png) no-repeat ;
+	height:500px;
+	vertical-align:middle;
+	background-position:center;
+	
+}
+
+.username
+{
+	
+	font-size:19px;
+	text-align:center;
+	padding-top:200px;
+	font-weight:bold;
+	margin-left:-300px;
+}
+
+.password
+{
+	text-align:center;	
+	font-size:19px;
+	margin-left:-330px;
+	padding-top:40px;
+	font-weight:bold;
+	position:relative;
+	padding-left:80px;
+}
+
+.textfield
+{	
+	background:url(images/textbox_new1.png) no-repeat center 0, 2px, 30px,20px;
+	margin-left:180px;
+	height:25px;
+	margin-top:-27px;
+}
+.submit
+{
+	padding-top:30px;
+	height:50px;
+
+	font-weight:bold;
+	color:#FFFFFF;
+	font-size:18px;
+}
+
+.forgot{
+	padding-top:10px;
+	color:#330066;
+	font-weight: bold;
+	font-size: 14px;
+}
+
+.error
+{
+	font-weight:bold;
+	color:#FF0000;
+}

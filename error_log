@@ -1,0 +1,81 @@
+[07-Apr-2013 10:15:48 Asia/Calcutta] PHP Parse error:  syntax error, unexpected T_STRING in /home/tusharsh/public_html/projects/vitcart/session.php on line 5
+[07-Apr-2013 10:15:50 Asia/Calcutta] PHP Parse error:  syntax error, unexpected T_STRING in /home/tusharsh/public_html/projects/vitcart/session.php on line 5
+[07-Apr-2013 10:15:51 Asia/Calcutta] PHP Parse error:  syntax error, unexpected T_STRING in /home/tusharsh/public_html/projects/vitcart/session.php on line 5
+[07-Apr-2013 10:16:04 Asia/Calcutta] PHP Parse error:  syntax error, unexpected T_STRING in /home/tusharsh/public_html/projects/vitcart/session.php on line 5
+[07-Apr-2013 10:16:05 Asia/Calcutta] PHP Parse error:  syntax error, unexpected T_STRING in /home/tusharsh/public_html/projects/vitcart/session.php on line 5
+[07-Apr-2013 10:16:15 Asia/Calcutta] PHP Warning:  Unknown: write failed: No space left on device (28) in Unknown on line 0
+[07-Apr-2013 10:16:15 Asia/Calcutta] PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct () in Unknown on line 0
+[07-Apr-2013 10:16:16 Asia/Calcutta] PHP Warning:  Unknown: write failed: No space left on device (28) in Unknown on line 0
+[07-Apr-2013 10:16:16 Asia/Calcutta] PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct () in Unknown on line 0
+[07-Apr-2013 10:16:35 Asia/Calcutta] PHP Warning:  Unknown: write failed: No space left on device (28) in Unknown on line 0
+[07-Apr-2013 10:16:35 Asia/Calcutta] PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct () in Unknown on line 0
+[07-Apr-2013 10:23:09 Asia/Calcutta] PHP Warning:  Unknown: write failed: No space left on device (28) in Unknown on line 0
+[07-Apr-2013 10:23:09 Asia/Calcutta] PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct () in Unknown on line 0
+[07-Apr-2013 10:23:11 Asia/Calcutta] PHP Warning:  Unknown: write failed: No space left on device (28) in Unknown on line 0
+[07-Apr-2013 10:23:11 Asia/Calcutta] PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct () in Unknown on line 0
+[07-Apr-2013 10:23:12 Asia/Calcutta] PHP Warning:  Unknown: write failed: No space left on device (28) in Unknown on line 0
+[07-Apr-2013 10:23:12 Asia/Calcutta] PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct () in Unknown on line 0
+[07-Apr-2013 10:23:13 Asia/Calcutta] PHP Warning:  Unknown: write failed: No space left on device (28) in Unknown on line 0
+[07-Apr-2013 10:23:13 Asia/Calcutta] PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct () in Unknown on line 0
+[07-Apr-2013 10:23:29 Asia/Calcutta] PHP Warning:  Unknown: write failed: No space left on device (28) in Unknown on line 0
+[07-Apr-2013 10:23:29 Asia/Calcutta] PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct () in Unknown on line 0
+[07-Apr-2013 10:28:16 Asia/Calcutta] PHP Warning:  Unknown: write failed: No space left on device (28) in Unknown on line 0
+[07-Apr-2013 10:28:16 Asia/Calcutta] PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct () in Unknown on line 0
+[07-Apr-2013 10:28:45 Asia/Calcutta] PHP Warning:  Unknown: write failed: No space left on device (28) in Unknown on line 0
+[07-Apr-2013 10:28:45 Asia/Calcutta] PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct () in Unknown on line 0
+[07-Apr-2013 10:28:46 Asia/Calcutta] PHP Warning:  Unknown: write failed: No space left on device (28) in Unknown on line 0
+[07-Apr-2013 10:28:46 Asia/Calcutta] PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct () in Unknown on line 0
+[07-Apr-2013 10:28:47 Asia/Calcutta] PHP Warning:  Unknown: write failed: No space left on device (28) in Unknown on line 0
+[07-Apr-2013 10:28:47 Asia/Calcutta] PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct () in Unknown on line 0
+[07-Apr-2013 10:28:48 Asia/Calcutta] PHP Warning:  Unknown: write failed: No space left on device (28) in Unknown on line 0
+[07-Apr-2013 10:28:48 Asia/Calcutta] PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct () in Unknown on line 0
+[07-Apr-2013 10:30:10 Asia/Calcutta] PHP Warning:  Unknown: write failed: No space left on device (28) in Unknown on line 0
+[07-Apr-2013 10:30:10 Asia/Calcutta] PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct () in Unknown on line 0
+[07-Apr-2013 10:30:18 Asia/Calcutta] PHP Warning:  Unknown: write failed: No space left on device (28) in Unknown on line 0
+[07-Apr-2013 10:30:18 Asia/Calcutta] PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct () in Unknown on line 0
+[07-Apr-2013 10:30:19 Asia/Calcutta] PHP Warning:  Unknown: write failed: No space left on device (28) in Unknown on line 0
+[07-Apr-2013 10:30:19 Asia/Calcutta] PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct () in Unknown on line 0
+[07-Apr-2013 10:30:20 Asia/Calcutta] PHP Warning:  Unknown: write failed: No space left on device (28) in Unknown on line 0
+[07-Apr-2013 10:30:20 Asia/Calcutta] PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct () in Unknown on line 0
+[07-Apr-2013 10:30:21 Asia/Calcutta] PHP Warning:  Unknown: write failed: No space left on device (28) in Unknown on line 0
+[07-Apr-2013 10:30:21 Asia/Calcutta] PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct () in Unknown on line 0
+[07-Apr-2013 10:30:22 Asia/Calcutta] PHP Warning:  Unknown: write failed: No space left on device (28) in Unknown on line 0
+[07-Apr-2013 10:30:22 Asia/Calcutta] PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct () in Unknown on line 0
+[07-Apr-2013 10:30:23 Asia/Calcutta] PHP Warning:  Unknown: write failed: No space left on device (28) in Unknown on line 0
+[07-Apr-2013 10:30:23 Asia/Calcutta] PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct () in Unknown on line 0
+[07-Apr-2013 10:30:31 Asia/Calcutta] PHP Warning:  Unknown: write failed: No space left on device (28) in Unknown on line 0
+[07-Apr-2013 10:30:31 Asia/Calcutta] PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct () in Unknown on line 0
+[07-Apr-2013 10:30:37 Asia/Calcutta] PHP Warning:  Unknown: write failed: No space left on device (28) in Unknown on line 0
+[07-Apr-2013 10:30:37 Asia/Calcutta] PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct () in Unknown on line 0
+[07-Apr-2013 10:32:29 Asia/Calcutta] PHP Warning:  Unknown: write failed: No space left on device (28) in Unknown on line 0
+[07-Apr-2013 10:32:29 Asia/Calcutta] PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct () in Unknown on line 0
+[07-Apr-2013 10:32:31 Asia/Calcutta] PHP Warning:  Unknown: write failed: No space left on device (28) in Unknown on line 0
+[07-Apr-2013 10:32:31 Asia/Calcutta] PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct () in Unknown on line 0
+[07-Apr-2013 10:32:32 Asia/Calcutta] PHP Warning:  Unknown: write failed: No space left on device (28) in Unknown on line 0
+[07-Apr-2013 10:32:32 Asia/Calcutta] PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct () in Unknown on line 0
+[07-Apr-2013 10:32:34 Asia/Calcutta] PHP Warning:  Unknown: write failed: No space left on device (28) in Unknown on line 0
+[07-Apr-2013 10:32:34 Asia/Calcutta] PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct () in Unknown on line 0
+[07-Apr-2013 10:32:35 Asia/Calcutta] PHP Warning:  Unknown: write failed: No space left on device (28) in Unknown on line 0
+[07-Apr-2013 10:32:35 Asia/Calcutta] PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct () in Unknown on line 0
+[07-Apr-2013 10:32:38 Asia/Calcutta] PHP Warning:  Unknown: write failed: No space left on device (28) in Unknown on line 0
+[07-Apr-2013 10:32:38 Asia/Calcutta] PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct () in Unknown on line 0
+[07-Apr-2013 10:34:07 Asia/Calcutta] PHP Warning:  Unknown: write failed: No space left on device (28) in Unknown on line 0
+[07-Apr-2013 10:34:07 Asia/Calcutta] PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct () in Unknown on line 0
+[07-Apr-2013 10:34:08 Asia/Calcutta] PHP Warning:  Unknown: write failed: No space left on device (28) in Unknown on line 0
+[07-Apr-2013 10:34:08 Asia/Calcutta] PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct () in Unknown on line 0
+[07-Apr-2013 10:35:31 Asia/Calcutta] PHP Warning:  Unknown: write failed: No space left on device (28) in Unknown on line 0
+[07-Apr-2013 10:35:31 Asia/Calcutta] PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct () in Unknown on line 0
+[07-Apr-2013 10:39:06 Asia/Calcutta] PHP Warning:  Unknown: write failed: No space left on device (28) in Unknown on line 0
+[07-Apr-2013 10:39:06 Asia/Calcutta] PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct () in Unknown on line 0
+[07-Apr-2013 10:39:08 Asia/Calcutta] PHP Warning:  Unknown: write failed: No space left on device (28) in Unknown on line 0
+[07-Apr-2013 10:39:08 Asia/Calcutta] PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct () in Unknown on line 0
+[07-Apr-2013 10:39:11 Asia/Calcutta] PHP Warning:  Unknown: write failed: No space left on device (28) in Unknown on line 0
+[07-Apr-2013 10:39:11 Asia/Calcutta] PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct () in Unknown on line 0
+[07-Apr-2013 10:39:12 Asia/Calcutta] PHP Warning:  Unknown: write failed: No space left on device (28) in Unknown on line 0
+[07-Apr-2013 10:39:12 Asia/Calcutta] PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct () in Unknown on line 0
+[07-Apr-2013 10:39:29 Asia/Calcutta] PHP Warning:  Unknown: write failed: No space left on device (28) in Unknown on line 0
+[07-Apr-2013 10:39:29 Asia/Calcutta] PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct () in Unknown on line 0
+[07-Apr-2013 10:40:33 Asia/Calcutta] PHP Warning:  Unknown: write failed: No space left on device (28) in Unknown on line 0
+[07-Apr-2013 10:40:33 Asia/Calcutta] PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct () in Unknown on line 0
+[07-Apr-2013 10:44:14 Asia/Calcutta] PHP Warning:  Unknown: write failed: No space left on device (28) in Unknown on line 0
+[07-Apr-2013 10:44:14 Asia/Calcutta] PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct () in Unknown on line 0

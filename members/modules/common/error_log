@@ -1,0 +1,21 @@
+[31-Mar-2013 16:57:05 Asia/Calcutta] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, null given in /home/tusharsh/public_html/projects/vitcart/members/modules/common/sidebar.php on line 7
+[31-Mar-2013 16:57:18 Asia/Calcutta] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, null given in /home/tusharsh/public_html/projects/vitcart/members/modules/common/sidebar.php on line 7
+[31-Mar-2013 16:57:42 Asia/Calcutta] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, null given in /home/tusharsh/public_html/projects/vitcart/members/modules/common/sidebar.php on line 7
+[31-Mar-2013 16:58:08 Asia/Calcutta] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, null given in /home/tusharsh/public_html/projects/vitcart/members/modules/common/sidebar.php on line 7
+[31-Mar-2013 16:58:08 Asia/Calcutta] PHP Parse error:  syntax error, unexpected T_FOR in /home/tusharsh/public_html/projects/vitcart/members/modules/themes/nowhere/sidebar.php on line 3
+[31-Mar-2013 16:58:09 Asia/Calcutta] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, null given in /home/tusharsh/public_html/projects/vitcart/members/modules/common/sidebar.php on line 7
+[31-Mar-2013 16:58:09 Asia/Calcutta] PHP Parse error:  syntax error, unexpected T_FOR in /home/tusharsh/public_html/projects/vitcart/members/modules/themes/nowhere/sidebar.php on line 3
+[31-Mar-2013 16:58:11 Asia/Calcutta] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, null given in /home/tusharsh/public_html/projects/vitcart/members/modules/common/sidebar.php on line 7
+[31-Mar-2013 16:58:11 Asia/Calcutta] PHP Parse error:  syntax error, unexpected T_FOR in /home/tusharsh/public_html/projects/vitcart/members/modules/themes/nowhere/sidebar.php on line 3
+[31-Mar-2013 16:58:35 Asia/Calcutta] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, null given in /home/tusharsh/public_html/projects/vitcart/members/modules/common/sidebar.php on line 7
+[31-Mar-2013 16:58:35 Asia/Calcutta] PHP Parse error:  syntax error, unexpected T_FOR in /home/tusharsh/public_html/projects/vitcart/members/modules/themes/nowhere/sidebar.php on line 3
+[31-Mar-2013 16:58:48 Asia/Calcutta] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, null given in /home/tusharsh/public_html/projects/vitcart/members/modules/common/sidebar.php on line 7
+[31-Mar-2013 16:58:48 Asia/Calcutta] PHP Parse error:  syntax error, unexpected T_FOR in /home/tusharsh/public_html/projects/vitcart/members/modules/themes/nowhere/sidebar.php on line 3
+[31-Mar-2013 16:58:50 Asia/Calcutta] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, null given in /home/tusharsh/public_html/projects/vitcart/members/modules/common/sidebar.php on line 7
+[31-Mar-2013 16:58:50 Asia/Calcutta] PHP Parse error:  syntax error, unexpected T_FOR in /home/tusharsh/public_html/projects/vitcart/members/modules/themes/nowhere/sidebar.php on line 3
+[31-Mar-2013 17:00:10 Asia/Calcutta] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, null given in /home/tusharsh/public_html/projects/vitcart/members/modules/common/sidebar.php on line 7
+[31-Mar-2013 17:00:12 Asia/Calcutta] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, null given in /home/tusharsh/public_html/projects/vitcart/members/modules/common/sidebar.php on line 7
+[31-Mar-2013 17:00:39 Asia/Calcutta] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, null given in /home/tusharsh/public_html/projects/vitcart/members/modules/common/sidebar.php on line 7
+[31-Mar-2013 17:01:44 Asia/Calcutta] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, null given in /home/tusharsh/public_html/projects/vitcart/members/modules/common/sidebar.php on line 7
+[31-Mar-2013 17:02:20 Asia/Calcutta] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, null given in /home/tusharsh/public_html/projects/vitcart/members/modules/common/sidebar.php on line 7
+[31-Mar-2013 17:02:22 Asia/Calcutta] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, null given in /home/tusharsh/public_html/projects/vitcart/members/modules/common/sidebar.php on line 7

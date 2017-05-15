@@ -1,0 +1,8 @@
+[07-Apr-2013 21:54:41 Asia/Calcutta] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/tusharsh/public_html/projects/vitcart/members/admin/grid/export_php/testDAO.php on line 81
+[07-Apr-2013 21:54:41 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/tusharsh/public_html/projects/vitcart/members/admin/grid/export_php/testDAO.php on line 87
+[07-Apr-2013 21:54:41 Asia/Calcutta] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/tusharsh/public_html/projects/vitcart/members/admin/grid/export_php/testDAO.php on line 81
+[07-Apr-2013 21:54:41 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/tusharsh/public_html/projects/vitcart/members/admin/grid/export_php/testDAO.php on line 87
+[07-Apr-2013 21:54:41 Asia/Calcutta] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/tusharsh/public_html/projects/vitcart/members/admin/grid/export_php/testDAO.php on line 81
+[07-Apr-2013 21:54:41 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/tusharsh/public_html/projects/vitcart/members/admin/grid/export_php/testDAO.php on line 87
+[07-Apr-2013 21:54:41 Asia/Calcutta] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/tusharsh/public_html/projects/vitcart/members/admin/grid/export_php/testDAO.php on line 81
+[07-Apr-2013 21:54:41 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/tusharsh/public_html/projects/vitcart/members/admin/grid/export_php/testDAO.php on line 87

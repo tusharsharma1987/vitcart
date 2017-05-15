@@ -1,0 +1,1 @@
+[24-Mar-2013 15:38:57 Asia/Calcutta] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'root'@'localhost' (using password: NO) in /home/tusharsh/public_html/projects/vitcart/admin/dbc.php on line 3
